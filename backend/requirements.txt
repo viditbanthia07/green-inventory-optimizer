@@ -1,0 +1,3 @@
+-r ../requirements.txt
+uvicorn==0.32.1
+pytest==9.1.1

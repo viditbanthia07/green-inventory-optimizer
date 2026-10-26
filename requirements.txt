@@ -1,0 +1,5 @@
+fastapi==0.115.6
+PuLP==2.9.0
+highspy==1.15.1
+httpx==0.28.1
+python-multipart==0.0.32
